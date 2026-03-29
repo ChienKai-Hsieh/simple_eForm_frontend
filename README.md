@@ -1,12 +1,17 @@
-# React + Vite
+# Simple Electronic Form ( Frontend )
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Developing a simple electronic form system using ASP.NET Core and React
+- Accessing form data using Oracle database
+- Implementing Google Third-Party login
+- Configuring Redis to store JWT Token
+- Accessing the database using parameterized queries
+- Setting HttpOnly Cookies for XSS protection
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screens
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Login Page
+  <img width="1350" height="609" alt="image" src="https://github.com/user-attachments/assets/6257512d-4e4a-4a0e-a36c-62c3549820b3" />
+- Electronic Form Page
+  <img width="1352" height="679" alt="image" src="https://github.com/user-attachments/assets/b3517a24-7c0f-42ee-9780-d5caa5003491" />
